@@ -7,6 +7,18 @@
 
         <style>
 
+            @media  (min-width: 768px) {
+              .container
+            }
+
+            @media (min-width: 1080px) {
+              .container
+            }
+
+            @media (min-width: 1280px) {
+              .container
+            }
+
 
             .colored{
 
@@ -14,11 +26,6 @@
 	            height: 50px;
               }
 
-            .container {
-
-             max-width: auto;
-             min-width: auto;
-             }
         </style>
 </head>
 
